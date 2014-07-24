@@ -13,7 +13,7 @@
     "name": "Rowan Beentje",
     "email": "rowan.beentje@ft.com"
   },
-  "main": "lib/fastclick.js",
+  "main": "lib/quickclick.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/tptee/quickclick.git"
