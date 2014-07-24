@@ -1,34 +1,25 @@
 {
-  "name": "fastclick",
-  "version": "1.0.1",
-  "description": "Polyfill to remove click delays on browsers with touch UIs.",
+  "name": "quickclick",
+  "version": "0.1.0",
+  "description": "Fork and refactor of FTLabs' FastClick",
   "maintainers": [
     {
-      "name": "Matthew Caruana Galizia",
-      "email": "m@m.cg",
-      "url": "http://m.cg/"
+      "name": "Tyler Thompson",
+      "email": "tyler@tylerpaulthompson.com",
+      "url": "http://tylerpaulthompson.com"
     }
   ],
   "author": {
     "name": "Rowan Beentje",
     "email": "rowan.beentje@ft.com"
   },
-  "contributors": [
-    {
-      "name": "Rowan Beentje",
-      "email": "rowan.beentje@ft.com"
-    },
-    {
-      "name": "Matthew Caruana Galizia",
-      "email": "m@m.cg"
-    }
-  ],
   "main": "lib/fastclick.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ftlabs/fastclick.git"
+    "url": "git://github.com/tptee/quickclick.git"
   },
   "keywords": [
+    "quickclick",
     "fastclick",
     "mobile",
     "touch",
@@ -44,6 +35,5 @@
   ],
   "implements": [
     "CommonJS/Modules/1.0"
-  ],
-  "homepage": "https://github.com/ftlabs/fastclick"
+  ]
 }
